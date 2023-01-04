@@ -276,11 +276,11 @@ a, li {
 }
 
 /* Project box images */
-.urbanco-img { background-image: url("media/urbanco.png"); } 
-.procreate-img { background-image: url("media/procreate.png"); }
-.recyclenook-img { background-image: url("media/recyclenook.png"); }
-.newspace-img { background-image: url("media/newspace.png"); } 
-.cinefest-img { background-image: url("media/cinefest.png"); } 
+.urbanco-img { background-image: url("./media/urbanco.png"); } 
+.procreate-img { background-image: url("./casestudy.css"); }
+.recyclenook-img { background-image: url("./media/recyclenook.png"); }
+.newspace-img { background-image: url("./media/newspace.png"); } 
+.cinefest-img { background-image: url("./media/cinefest.png"); } 
 
 
 /* Project box colors */
